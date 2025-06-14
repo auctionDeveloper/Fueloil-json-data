@@ -19,26 +19,27 @@
         { "name": "Mix aromatic Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg" }
       ]
     },
-    "White Base Oil": {
-      "title": "White Base Oil",
-      "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg",
-      "description": "White Base Oil is a highly refined, colorless, and odorless oil used as a primary ingredient in lubricants, cosmetics, and pharmaceuticals. Its superior purity and stability ensure optimal performance in applications requiring excellent oxidation resistance and thermal stability. It serves as a perfect carrier fluid in various industrial and consumer products.",
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "imagesofmtosubproct": "",
-      "subproducts": [
-        { "name": "BASE OIL N70", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "BASE OIL N150", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "BASE OIL N220", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "BASE OIL N500", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "Base oil N100", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "BASE OIL N60", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "WHITE OIL", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "2 CST WHITE OIL", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "Pharmaceutical Grade Base Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "High Viscosity White Base Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" },
-        { "name": "Cosmetic Grade Base Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg" }
-      ]
-    },
+ "White Base Oil": {
+  "title": "White Base Oil",
+  "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg",
+  "description": "White Base Oil is a highly refined, colorless, and odorless oil used as a primary ingredient in lubricants, cosmetics, and pharmaceuticals. Its superior purity and stability ensure optimal performance in applications requiring excellent oxidation resistance and thermal stability. It serves as a perfect carrier fluid in various industrial and consumer products.",
+  "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+  "imagesofmtosubproct": "",
+  "subproducts": [
+    { "name": "BASE OIL N70", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png" },
+    { "name": "BASE OIL N150", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png" },
+    { "name": "BASE OIL N220", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png" },
+    { "name": "BASE OIL N500", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png" },
+    { "name": "Base oil N100", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png" },
+    { "name": "BASE OIL N60", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png" },
+    { "name": "WHITE OIL", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png" },
+    { "name": "2 CST WHITE OIL", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png" },
+    { "name": "Pharmaceutical Grade Base Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png" },
+    { "name": "High Viscosity White Base Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png" },
+    { "name": "Cosmetic Grade Base Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png" }
+  ]
+}
+,
   "Yellow Base Oil": {
   "title": "Yellow Base Oil",
   "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg",
@@ -118,24 +119,25 @@
 }
 ,
     "Solvent": {
-      "title": "Solvent",
-      "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
-      "description": "Our industrial-grade solvents are specially formulated for use in paints, coatings, adhesives, and cleaning agents. They provide excellent solvency power, fast evaporation rates, and minimal residue, ensuring superior product quality and process efficiency across various manufacturing applications.",
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "subproducts": [
-        { "name": "Industrial Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Aromatic Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Aliphatic Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "High Flash Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Paint Thinner Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Rubber Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Adhesive Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Pharmaceutical Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Cleaning Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Extraction Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" }
-      ]
-    },
+  "title": "Solvent",
+  "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+  "description": "Our industrial-grade solvents are specially formulated for use in paints, coatings, adhesives, and cleaning agents. They provide excellent solvency power, fast evaporation rates, and minimal residue, ensuring superior product quality and process efficiency across various manufacturing applications.",
+  "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+  "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+  "subproducts": [
+    { "name": "Industrial Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886071/ChatGPT_Image_Jun_14_2025_11_05_15_AM_uxuaba.png" },
+    { "name": "Aromatic Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_06_57_AM_hpefnw.png" },
+    { "name": "Aliphatic Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png" },
+    { "name": "High Flash Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png" },
+    { "name": "Paint Thinner Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png" },
+    { "name": "Rubber Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_09_01_AM_v04kem.png" },
+    { "name": "Adhesive Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png" },
+    { "name": "Pharmaceutical Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_38_42_AM_gyihrp.png" },
+    { "name": "Cleaning Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png" },
+    { "name": "Extraction Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png" }
+  ]
+}
+,
 "Briquette": {
   "title": "Briquette",
   "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
@@ -156,24 +158,25 @@
 }
 ,
     "CNSL Resin": {
-      "title": "CNSL Resin",
-      "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
-      "description": "CNSL Resin is a natural resin extracted from cashew nutshells, widely used in coatings, adhesives, and friction materials. Its excellent heat resistance, chemical stability, and adhesive properties make it a valuable raw material in various industrial formulations.",
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749810919/cnslresincoa_exlikj.png",
-      "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "subproducts": [
-        { "name": "Friction Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Coating Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Adhesive Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Modified CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Phenolic CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Epoxy Modified CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Polyurethane CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "High-Viscosity CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Oil-Resistant CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Insulation Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" }
-      ]
-    },
+  "title": "CNSL Resin",
+  "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+  "description": "CNSL Resin is a natural resin extracted from cashew nutshells, widely used in coatings, adhesives, and friction materials. Its excellent heat resistance, chemical stability, and adhesive properties make it a valuable raw material in various industrial formulations.",
+  "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749810919/cnslresincoa_exlikj.png",
+  "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+  "subproducts": [
+    { "name": "Friction Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885946/ChatGPT_Image_Jun_14_2025_11_55_33_AM_takxwa.png" },
+    { "name": "Coating Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885946/ChatGPT_Image_Jun_14_2025_12_00_28_PM_ft1py5.png" },
+    { "name": "Adhesive Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885946/ChatGPT_Image_Jun_14_2025_11_59_04_AM_kwgali.png" },
+    { "name": "Modified CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885946/ChatGPT_Image_Jun_14_2025_12_01_49_PM_lfzcf3.png" },
+    { "name": "Phenolic CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_04_34_PM_qjjhl6.png" },
+    { "name": "Epoxy Modified CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_12_32_PM_jt5enw.png" },
+    { "name": "Polyurethane CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_14_43_PM_chma3i.png" },
+    { "name": "High-Viscosity CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_23_02_PM_eazu4m.png" },
+    { "name": "Oil-Resistant CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_26_00_PM_xmnxlo.png" },
+    { "name": "Insulation Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885948/ChatGPT_Image_Jun_14_2025_12_21_04_PM_btfz3s.png" }
+  ]
+}
+,
   "Lamp Oil": {
   "title": "Lamp Oil",
   "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
