@@ -136,25 +136,25 @@
         { "name": "Extraction Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" }
       ]
     },
-    "Briquette": {
-      "title": "Briquette",
-      "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
-      "description": "Briquettes are compacted blocks of combustible materials used as an alternative fuel source. Made from biomass, coal, or charcoal, they offer a clean-burning and energy-efficient fuel option for industrial heating, cooking, and power generation. Briquettes are cost-effective, easy to store, and environmentally friendly.",
-      
-      "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "subproducts": [
-        { "name": "Biomass Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Sawdust Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Coconut Shell Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Agro Waste Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Charcoal Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Rice Husk Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Coffee Husk Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Peat Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "High-Density Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Low-Moisture Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" }
-      ]
-    },
+"Briquette": {
+  "title": "Briquette",
+  "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
+  "description": "Briquettes are compacted blocks of combustible materials used as an alternative fuel source. Made from biomass, coal, or charcoal, they offer a clean-burning and energy-efficient fuel option for industrial heating, cooking, and power generation. Briquettes are cost-effective, easy to store, and environmentally friendly.",
+  "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+  "subproducts": [
+    { "name": "Biomass Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg" },
+    { "name": "Sawdust Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp" },
+    { "name": "Coconut Shell Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/img-20201006-wa0004-jpg_itxisx.jpg" },
+    { "name": "Agro Waste Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp" },
+    { "name": "Charcoal Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp" },
+    { "name": "Rice Husk Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg" },
+    { "name": "Coffee Husk Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/Industrial-White-Coal_oga1jy.jpg" },
+    { "name": "Peat Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp" },
+    { "name": "High-Density Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp" },
+    { "name": "Low-Moisture Briquette", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp" }
+  ]
+}
+,
     "CNSL Resin": {
       "title": "CNSL Resin",
       "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
@@ -174,43 +174,43 @@
         { "name": "Insulation Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" }
       ]
     },
-    "Lamp Oil": {
-      "title": "Lamp Oil",
-      "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
-      "description": "Lamp Oil is a clean-burning, refined fuel designed for use in oil lamps and lanterns. It provides a bright, steady flame with minimal smoke and odor, ensuring safe and efficient lighting. Our lamp oil is formulated to meet high purity standards, making it ideal for household and decorative lighting needs.",
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "subproducts": [
-        { "name": "Clear Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Odorless Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Colored Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Pooja Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Deep oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Til Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Indoor Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Scented Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Long-Burning Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" },
-        { "name": "Premium Grade Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp" }
-      ]
-    },
-    "Hydrocarbon": {
-      "title": "Hydrocarbon",
-      "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
-      "description": "Hydrocarbon products encompass a wide range of petroleum-based chemicals used as fuels, solvents, and feedstock for the chemical industry. Our high-quality hydrocarbons meet industry specifications and support diverse applications, from energy production to manufacturing of plastics and other materials.",
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-      "subproducts": [
-        { "name": "Light Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331278/1_fqojqj.jpg" },
-        { "name": "Heavy Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331279/images_1_sxie2y.jpg" },
-        { "name": "Aromatic Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331279/d-7_eg5lc7.jpg" },
-        { "name": "Mix Hdrocarbon oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331312/images_3_gdkybk.jpg" },
-        { "name": "10 PPM", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331312/images_3_gdkybk.jpg" },
-        { "name": "Industrial oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331323/mineral-hydrocarbon-oil-mho_uj40cd.jpg" },
-        { "name": "Processing oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331335/product-jpeg-500x500_wypvyz.webp" },
-        { "name": "Hydrocarbon oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331335/New-Project-24-min_ykpcxg.png" },
-        { "name": "Industrial Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331322/images_uoxdvd.jpg" },
-        { "name": "Solvent-Grade Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331329/mixed-hydro-carbon-oil-500x500_vriuis.webp" }
-      ]
-    }
+  "Lamp Oil": {
+  "title": "Lamp Oil",
+  "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg",
+  "description": "Lamp Oil is a clean-burning, refined fuel designed for use in oil lamps and lanterns. It provides a bright, steady flame with minimal smoke and odor, ensuring safe and efficient lighting. Our lamp oil is formulated to meet high purity standards, making it ideal for household and decorative lighting needs.",
+  "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+  "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+  "subproducts": [
+    { "name": "Clear Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.53.48_PM_l9i7jj.jpg" },
+    { "name": "Odorless Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg" },
+    { "name": "Colored Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg" },
+    { "name": "Pooja Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.05_PM_txrujs.jpg" },
+    { "name": "Deep oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.13.30_AM_fmbpju.jpg" },
+    { "name": "Til Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.13_AM_nkkk24.jpg" },
+    { "name": "Indoor Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.17.58_AM_tpl9m6.jpg" },
+    { "name": "Scented Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.18.36_AM_zws33t.jpg" },
+    { "name": "Long-Burning Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277254/WhatsApp_Image_2025-05-29_at_6.49.56_PM_onndcx.jpg" },
+    { "name": "Premium Grade Lamp Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749277255/WhatsApp_Image_2025-05-29_at_11.10.04_AM_znydnt.jpg" }
+  ]
+}
+,"Hydrocarbon": {
+  "title": "Hydrocarbon",
+  "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331278/1_fqojqj.jpg",
+  "description": "Hydrocarbon products encompass a wide range of petroleum-based chemicals used as fuels, solvents, and feedstock for the chemical industry. Our high-quality hydrocarbons meet industry specifications and support diverse applications, from energy production to manufacturing of plastics and other materials.",
+  "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+  "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+  "subproducts": [
+    { "name": "Light Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331278/1_fqojqj.jpg" },
+    { "name": "Heavy Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331279/images_1_sxie2y.jpg" },
+    { "name": "Aromatic Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331279/d-7_eg5lc7.jpg" },
+    { "name": "Mix Hdrocarbon oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331312/images_3_gdkybk.jpg" },
+    { "name": "10 PPM", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331312/images_3_gdkybk.jpg" },
+    { "name": "Industrial oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331323/mineral-hydrocarbon-oil-mho_uj40cd.jpg" },
+    { "name": "Processing oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331335/product-jpeg-500x500_wypvyz.webp" },
+    { "name": "Hydrocarbon oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331335/New-Project-24-min_ykpcxg.png" },
+    { "name": "Industrial Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331322/images_uoxdvd.jpg" },
+    { "name": "Solvent-Grade Hydrocarbon", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331329/mixed-hydro-carbon-oil-500x500_vriuis.webp" }
+  ]
+}
   }
 }
