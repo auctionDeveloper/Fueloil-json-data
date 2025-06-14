@@ -7,24 +7,24 @@
     "city": "Mumbai",
     "title": "Thiner",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
- "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Thiner is a solvent used to reduce the viscosity of paints and coatings for better application and finish.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "Thiner",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in automotive and furniture paints",
+      "Effective in cleaning brushes and equipment",
+      "Improves flow and leveling of paints"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
     "areanames": [
       "Andheri MIDC",
       "Marol Industrial Estate",
@@ -42,24 +42,24 @@
     "city": "Navi Mumbai",
     "title": "Reducer",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-"images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Reducer enhances paint consistency and is widely used in spray applications for uniform coating.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "Reducer",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Common in spray gun applications",
+      "Ensures even distribution of paint",
+      "Ideal for industrial paint jobs"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
     "areanames": [
       "Turbhe MIDC",
       "TTC Industrial Area",
@@ -77,24 +77,24 @@
     "city": "Thane",
     "title": "Mineral Turpentine Oil",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
- "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Mineral Turpentine Oil is a clear liquid used as a solvent in the paint industry and for degreasing and cleaning.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "Mineral Turpentine Oil",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Excellent solvent for oil-based paints",
+      "Used for cleaning metal parts and tools",
+      "Degreasing surfaces before painting"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "areanames": [
       "Wagle Industrial Estate",
       "Kalwa Industrial Area",
@@ -112,24 +112,24 @@
     "city": "Palghar",
     "title": "Paint Thiner",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-"images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Thiner is a solvent used to reduce the viscosity of paints and coatings for better application and finish.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "Paint Thiner",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in automotive and furniture paints",
+      "Effective in cleaning brushes and equipment",
+      "Improves flow and leveling of paints"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "areanames": [
       "Boisar MIDC",
       "Tarapur MIDC",
@@ -147,24 +147,24 @@
     "city": "Raigad",
     "title": "Industrial Turpentine Oil",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
- "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Industrial Turpentine Oil is a high-purity solvent commonly used in varnishes, resins, and surface coatings.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "Industrial Turpentine Oil",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Solvent in resin and varnish industries",
+      "Used for degreasing mechanical parts",
+      "Cleans machinery and tools"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
     "areanames": [
       "Taloja MIDC",
       "Patalganga MIDC",
@@ -182,24 +182,24 @@
     "city": "Panvel",
     "title": "Industrial Thiner",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-  "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Thiner is a solvent used to reduce the viscosity of paints and coatings for better application and finish.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "Industrial Thiner",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in automotive and furniture paints",
+      "Effective in cleaning brushes and equipment",
+      "Improves flow and leveling of paints"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
     "areanames": [
       "New Panvel Industrial Node",
       "Kalundre MIDC",
@@ -217,24 +217,24 @@
     "city": "Pune",
     "title": "Industrial Solvent",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-   "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Industrial solvents are used to dissolve or extract substances and are essential in manufacturing processes.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "Industrial Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in adhesive and chemical manufacturing",
+      "Cleans surfaces in industrial environments",
+      "Dissolves resins and polymers"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
     "areanames": [
       "Chakan MIDC",
       "Ranjangaon MIDC",
@@ -252,24 +252,24 @@
     "city": "Nashik",
     "title": "Industrial Composite Mixture",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-  "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Composite Mixtures in MTO are specially formulated for enhanced solvent properties and efficient performance.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "Industrial Composite Mixture",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in specialized coatings",
+      "Ideal for chemical formulations",
+      "Blended for custom industrial applications"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
     "areanames": [
       "Satpur MIDC",
       "Ambad MIDC",
@@ -287,24 +287,24 @@
     "city": "Aurangabad",
     "title": "MTO Petroleum Oil",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
- "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "MTO Petroleum Oil is a refined distillate used in various applications requiring moderate evaporation and solvency.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "MTO Petroleum Oil",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in textile and printing inks",
+      "Functions as a diluent in agrochemicals",
+      "Intermediate for petroleum product blending"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
     "areanames": [
       "Waluj MIDC",
       "Shendra MIDC",
@@ -322,24 +322,24 @@
     "city": "Kolhapur",
     "title": "Mix Aromatic Solvent",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-  "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Industrial solvents are used to dissolve or extract substances and are essential in manufacturing processes.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "productname": "Mix Aromatic Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in adhesive and chemical manufacturing",
+      "Cleans surfaces in industrial environments",
+      "Dissolves resins and polymers"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
     "areanames": [
       "Shiroli MIDC",
       "Gokul Shirgaon MIDC",
@@ -353,23 +353,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-  "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Thiner is a solvent used to reduce the viscosity of paints and coatings for better application and finish.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in automotive and furniture paints",
+      "Effective in cleaning brushes and equipment",
+      "Improves flow and leveling of paints"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
     "subproduct": "Thiner",
     "city": "Goa",
     "title": "Thiner",
@@ -388,23 +388,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-  "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Reducer enhances paint consistency and is widely used in spray applications for uniform coating.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Common in spray gun applications",
+      "Ensures even distribution of paint",
+      "Ideal for industrial paint jobs"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "subproduct": "Reducer",
     "city": "Hubli",
     "title": "Reducer",
@@ -423,23 +423,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-   "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Mineral Turpentine Oil is a clear liquid used as a solvent in the paint industry and for degreasing and cleaning.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Excellent solvent for oil-based paints",
+      "Used for cleaning metal parts and tools",
+      "Degreasing surfaces before painting"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
     "subproduct": "Mineral Turpentine Oil",
     "city": "Belgaum",
     "title": "Mineral Turpentine Oil",
@@ -458,23 +458,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-  "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Thiner is a solvent used to reduce the viscosity of paints and coatings for better application and finish.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in automotive and furniture paints",
+      "Effective in cleaning brushes and equipment",
+      "Improves flow and leveling of paints"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
     "subproduct": "Paint Thiner",
     "city": "Tumkur",
     "title": "Paint Thiner",
@@ -493,23 +493,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "description": "Industrial Turpentine Oil is a high-purity solvent commonly used in varnishes, resins, and surface coatings.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-   "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Solvent in resin and varnish industries",
+      "Used for degreasing mechanical parts",
+      "Cleans machinery and tools"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
     "subproduct": "Industrial Turpentine Oil",
     "city": "Bengaluru",
     "title": "Industrial Turpentine Oil",
@@ -528,23 +528,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-  "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Thiner is a solvent used to reduce the viscosity of paints and coatings for better application and finish.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in automotive and furniture paints",
+      "Effective in cleaning brushes and equipment",
+      "Improves flow and leveling of paints"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
     "subproduct": "Industrial Thiner",
     "city": "Silvassa",
     "title": "Industrial Thiner",
@@ -563,23 +563,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
+    "description": "Industrial solvents are used to dissolve or extract substances and are essential in manufacturing processes.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-  "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in adhesive and chemical manufacturing",
+      "Cleans surfaces in industrial environments",
+      "Dissolves resins and polymers"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
     "subproduct": "Industrial Solvent",
     "city": "Vapi",
     "title": "Industrial Solvent",
@@ -598,23 +598,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-"images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Composite Mixtures in MTO are specially formulated for enhanced solvent properties and efficient performance.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in specialized coatings",
+      "Ideal for chemical formulations",
+      "Blended for custom industrial applications"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
     "subproduct": "Industrial Composite Mixture",
     "city": "Surat",
     "title": "Industrial Composite Mixture",
@@ -633,23 +633,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-  "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "MTO Petroleum Oil is a refined distillate used in various applications requiring moderate evaporation and solvency.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in textile and printing inks",
+      "Functions as a diluent in agrochemicals",
+      "Intermediate for petroleum product blending"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
     "subproduct": "MTO Petroleum Oil",
     "city": "Ahmedabad",
     "title": "MTO Petroleum Oil",
@@ -668,23 +668,23 @@
     "category": "MTO",
     "objective": "Trader",
     "subtitle": "High-quality industrial base oil with multiple applications",
-    "description": "Base oil used in lubricants, cosmetics, and industrial formulations. Known for its purity and consistent quality.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
- "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
-      ],
+    "description": "Industrial solvents are used to dissolve or extract substances and are essential in manufacturing processes.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+    "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+    ],
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
     "usesdescription": [
-      "Used in cosmetic industry",
-      "Formulation of lubricants",
-      "Pharmaceutical preparations"
+      "Used in adhesive and chemical manufacturing",
+      "Cleans surfaces in industrial environments",
+      "Dissolves resins and polymers"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
     "subproduct": "Mix Aromatic Solvent",
     "city": "Dhule",
     "title": "Mix Aromatic Solvent",
