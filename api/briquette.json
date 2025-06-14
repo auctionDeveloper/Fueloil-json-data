@@ -4,20 +4,25 @@
       "slug": "biomass-briquette",
       "title": "Biomass Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "Biomass Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/img-20201006-wa0004-jpg_itxisx.jpg",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/img-20201006-wa0004-jpg_itxisx.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
       "areanames": [
         "Verna Industrial Estate",
         "Kundaim Industrial Estate",
@@ -33,20 +38,25 @@
       "slug": "sawdust-briquette",
       "title": "Sawdust Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "Sawdust Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/Industrial-White-Coal_oga1jy.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
       "areanames": [
         "Gokul Industrial Estate",
         "Tarihal Industrial Area",
@@ -62,20 +72,25 @@
       "slug": "coconut-shell-briquette",
       "title": "Coconut Shell Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "Coconut Shell Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/Industrial-White-Coal_oga1jy.jpg"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp",
       "areanames": [
         "Udyambag Industrial Estate",
         "Macche Industrial Zone",
@@ -91,20 +106,25 @@
       "slug": "agro-waste-briquette",
       "title": "Agro Waste Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "Agro Waste Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/img-20201006-wa0004-jpg_itxisx.jpg",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/img-20201006-wa0004-jpg_itxisx.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/Industrial-White-Coal_oga1jy.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp",
       "areanames": [
         "Vasanthanarasapura Industrial Area",
         "Dobbaspet Industrial Estate",
@@ -120,20 +140,25 @@
       "slug": "charcoal-briquette",
       "title": "Charcoal Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "Charcoal Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/img-20201006-wa0004-jpg_itxisx.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/Industrial-White-Coal_oga1jy.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg",
       "areanames": [
         "Peenya Industrial Area",
         "Bommasandra Industrial Area",
@@ -149,20 +174,25 @@
       "slug": "rice-husk-briquette",
       "title": "Rice Husk Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "Rice Husk Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/img-20201006-wa0004-jpg_itxisx.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
       "areanames": [
         "Amli Industrial Estate",
         "Kherdi Industrial Zone",
@@ -178,20 +208,25 @@
       "slug": "coffee-husk-briquette",
       "title": "Coffee Husk Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "Coffee Husk Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/img-20201006-wa0004-jpg_itxisx.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp",
       "areanames": [
         "GIDC Vapi Industrial Estate",
         "Gunjan Industrial Zone",
@@ -207,20 +242,25 @@
       "slug": "peat-briquette",
       "title": "Peat Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "Peat Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/Industrial-White-Coal_oga1jy.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/img-20201006-wa0004-jpg_itxisx.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
       "areanames": [
         "Udhna Industrial Estate",
         "Sachin GIDC",
@@ -236,20 +276,25 @@
       "slug": "high-density-briquette",
       "title": "High-Density Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "High-Density Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/Industrial-White-Coal_oga1jy.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
       "areanames": [
         "Vatva GIDC",
         "Naroda GIDC",
@@ -265,20 +310,25 @@
       "slug": "low-moisture-briquette",
       "title": "Low-Moisture Briquette",
       "subtitle": "Eco-friendly, compact fuel blocks from biomass and waste materials",
-      "description": "Low-Moisture Briquette is an alternative fuel source made from agricultural or industrial byproducts. It ensures high calorific value, low emissions, and is suitable for boilers, furnaces, and domestic heating.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+      "description": "Briquettes are eco-friendly, compact fuel blocks created from biomass waste, such as sawdust, agricultural residues, and other organic materials. They provide high calorific value, generate low emissions, and are an economical substitute for conventional fossil fuels in heating and industrial applications.",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/groundnut-biomass-briquettes_qmqwfz.jpg",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/Industrial-White-Coal_oga1jy.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-briquettes-250x250_isziv7.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/biomass-coal-500x500_nxhymc.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/natural-biomass-briquettes-500x500_s6rvom.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330663/images_2_ioufeu.jpg"
       ],
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": [
-        "Renewable fuel for industrial boilers",
-        "Used in gasifiers and power plants",
-        "Replacement for coal in rural kitchens",
-        "Ideal for agricultural dryers",
-        "Supports carbon reduction initiatives"
+        "Used as an energy source in industrial boilers and kilns",
+        "Replaces coal and wood in rural heating applications",
+        "Ideal for power generation through gasifiers",
+        "Utilized in food processing industries for steam generation",
+        "Promotes clean energy adoption and reduces deforestation"
       ],
-      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
+      "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330664/soybean-briquette-500x500_fs4fln.webp",
       "areanames": [
         "MIDC Dhule",
         "Avdhan Industrial Zone",
