@@ -7,19 +7,22 @@
     "city": "Mumbai",
     "title": "Light Diesel Oil",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp"
     ],
     "productname": "Light Diesel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
     "areanames": [
       "Andheri MIDC",
       "Marol Industrial Estate",
@@ -37,19 +40,22 @@
     "city": "Navi Mumbai",
     "title": "Light Fuel Oil",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
     "productname": "Light Fuel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
     "areanames": [
       "Turbhe MIDC",
       "TTC Industrial Area",
@@ -67,19 +73,22 @@
     "city": "Thane",
     "title": "Eco Blend LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
     ],
     "productname": "Eco Blend LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "areanames": [
       "Wagle Industrial Estate",
       "Kalwa Industrial Area",
@@ -97,19 +106,22 @@
     "city": "Palghar",
     "title": "Low Sulphur LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
     "productname": "Low Sulphur LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
     "areanames": [
       "Boisar MIDC",
       "Tarapur MIDC",
@@ -127,19 +139,22 @@
     "city": "Raigad",
     "title": "Marine Grade LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
     ],
     "productname": "Marine Grade LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
     "areanames": [
       "Taloja MIDC",
       "Patalganga MIDC",
@@ -157,19 +172,22 @@
     "city": "Panvel",
     "title": "Industrial Grade LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+    "description": "Premium Light Diesel Oil designed for industrial applications such as boilers and furnaces, ensuring consistent combustion and high energy efficiency.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg"
     ],
     "productname": "Industrial Grade LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Perfect for textile units, ceramic kilns, and small-scale manufacturing plants.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "areanames": [
       "New Panvel Industrial Node",
       "Kalundre MIDC",
@@ -187,19 +205,22 @@
     "city": "Pune",
     "title": "Low Viscocity Oil",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg"
     ],
     "productname": "Low Viscocity Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
     "areanames": [
       "Chakan MIDC",
       "Ranjangaon MIDC",
@@ -217,19 +238,22 @@
     "city": "Nashik",
     "title": "Light Density Oil",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg"
     ],
     "productname": "Light Density Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
     "areanames": [
       "Satpur MIDC",
       "Ambad MIDC",
@@ -247,19 +271,22 @@
     "city": "Aurangabad",
     "title": "Boiler LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
     ],
     "productname": "Boiler LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
     "areanames": [
       "Waluj MIDC",
       "Shendra MIDC",
@@ -277,19 +304,22 @@
     "city": "Kolhapur",
     "title": "Hotmix LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg"
     ],
     "productname": "Hotmix LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
     "areanames": [
       "Shiroli MIDC",
       "Gokul Shirgaon MIDC",
@@ -307,19 +337,22 @@
     "city": "Goa",
     "title": "Light Diesel Oil",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg"
     ],
     "productname": "Light Diesel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
     "areanames": [
       "Verna Industrial Estate",
       "Kundaim Industrial Estate",
@@ -337,19 +370,22 @@
     "city": "Hubli",
     "title": "Light Fuel Oil",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
     "productname": "Light Fuel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
     "areanames": [
       "Gokul Industrial Estate",
       "Tarihal Industrial Area",
@@ -367,19 +403,22 @@
     "city": "Belgaum",
     "title": "Eco Blend LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
     ],
     "productname": "Eco Blend LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "areanames": [
       "Udyambag Industrial Estate",
       "Macche Industrial Zone",
@@ -397,19 +436,22 @@
     "city": "Tumkur",
     "title": "Low Sulphur LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg"
     ],
     "productname": "Low Sulphur LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
     "areanames": [
       "Vasanthanarasapura Industrial Area",
       "Dobbaspet Industrial Estate",
@@ -427,19 +469,22 @@
     "city": "Bengaluru",
     "title": "Marine Grade LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp"
     ],
     "productname": "Marine Grade LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
     "areanames": [
       "Peenya Industrial Area",
       "Bommasandra Industrial Area",
@@ -457,19 +502,22 @@
     "city": "Silvassa",
     "title": "Industrial Grade LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+    "description": "Premium Light Diesel Oil designed for industrial applications such as boilers and furnaces, ensuring consistent combustion and high energy efficiency.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp"
     ],
     "productname": "Industrial Grade LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Perfect for textile units, ceramic kilns, and small-scale manufacturing plants.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "areanames": [
       "Amli Industrial Estate",
       "Kherdi Industrial Zone",
@@ -487,19 +535,22 @@
     "city": "Vapi",
     "title": "Low Viscocity Oil",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
     "productname": "Low Viscocity Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
     "areanames": [
       "GIDC Vapi Industrial Estate",
       "Gunjan Industrial Zone",
@@ -517,19 +568,22 @@
     "city": "Surat",
     "title": "Light Density Oil",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp"
     ],
     "productname": "Light Density Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
     "areanames": [
       "Udhna Industrial Estate",
       "Sachin GIDC",
@@ -547,19 +601,22 @@
     "city": "Ahmedabad",
     "title": "Boiler LDO",
     "subtitle": "Trusted source of high-performance diesel oil for industrial applications.",
-    "description": "Our LDO variants are formulated to ensure efficient combustion, reduced emissions, and improved engine life for heavy machinery and industrial boilers.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp"
     ],
     "productname": "Boiler LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in industrial burners and furnaces",
-      "Backup fuel in power generation",
-      "Marine and construction machinery applications"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
     "areanames": [
       "Vatva GIDC",
       "Naroda GIDC",
@@ -577,20 +634,22 @@
     "city": "Dhule",
     "title": "Boiler LDO",
     "subtitle": "Reliable fuel solution for industrial boilers and heating applications",
-    "description": "Boiler Light Diesel Oil is optimized for combustion in industrial boilers, ensuring steady heat generation, low ash content, and minimal carbon deposits.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+    "description": "High-quality Light Diesel Oil suitable for a range of combustion systems, providing excellent ignition quality and fuel economy.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
     ],
     "productname": "Boiler LDO",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Efficient fuel for boilers and furnaces",
-      "Ideal for industrial heating processes",
-      "Used in road construction hot mix plants"
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Used in various sectors including agriculture, mining, and construction equipment.",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329182/a_xrzvj5.webp",
     "areanames": [
       "MIDC Dhule",
       "Avdhan Industrial Zone",
