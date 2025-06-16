@@ -3,23 +3,28 @@
     "slug": "fuel-oil-fuel-oil-supplier-mumbai",
     "category": "Fuel Oil",
     "subproduct": "Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Mumbai",
     "title": "Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
     ],
     "productname": "Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
     "areanames": [
       "Andheri MIDC",
       "Marol Industrial Estate",
@@ -33,23 +38,28 @@
     "slug": "fuel-oil-furnace-oil-supplier-navi-mumbai",
     "category": "Fuel Oil",
     "subproduct": "Furnace Oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Navi Mumbai",
     "title": "Furnace Oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg"
     ],
     "productname": "Furnace Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
     "areanames": [
       "Turbhe MIDC",
       "TTC Industrial Area",
@@ -63,23 +73,28 @@
     "slug": "fuel-oil-hight-viscocity-fuel-oil-supplier-thane",
     "category": "Fuel Oil",
     "subproduct": "Hight Viscocity Fuel Oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Thane",
     "title": "Hight Viscocity Fuel Oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg"
     ],
     "productname": "Hight Viscocity Fuel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
     "areanames": [
       "Wagle Industrial Estate",
       "Kalwa Industrial Area",
@@ -93,23 +108,28 @@
     "slug": "fuel-oil-marine-fuel-oil-supplier-palghar",
     "category": "Fuel Oil",
     "subproduct": "Marine Fuel Oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Palghar",
     "title": "Marine Fuel Oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg"
     ],
     "productname": "Marine Fuel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
     "areanames": [
       "Boisar MIDC",
       "Tarapur MIDC",
@@ -123,23 +143,28 @@
     "slug": "fuel-oil-heavy-fuel-oil-supplier-raigad",
     "category": "Fuel Oil",
     "subproduct": "Heavy Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Raigad",
     "title": "Heavy Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
     ],
     "productname": "Heavy Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
     "areanames": [
       "Taloja MIDC",
       "Patalganga MIDC",
@@ -153,23 +178,28 @@
     "slug": "fuel-oil-resudue-fuel-oil-supplier-panvel",
     "category": "Fuel Oil",
     "subproduct": "Resudue Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Panvel",
     "title": "Resudue Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg"
     ],
     "productname": "Resudue Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "areanames": [
       "New Panvel Industrial Node",
       "Kalundre MIDC",
@@ -183,23 +213,28 @@
     "slug": "fuel-oil-industrial-fuel-oil-supplier-pune",
     "category": "Fuel Oil",
     "subproduct": "Industrial Fuel Oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Pune",
     "title": "Industrial Fuel Oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg"
     ],
     "productname": "Industrial Fuel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "areanames": [
       "Chakan MIDC",
       "Ranjangaon MIDC",
@@ -213,23 +248,28 @@
     "slug": "fuel-oil-black-fuel-oil-supplier-nashik",
     "category": "Fuel Oil",
     "subproduct": "Black Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Nashik",
     "title": "Black Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg"
     ],
     "productname": "Black Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
     "areanames": [
       "Satpur MIDC",
       "Ambad MIDC",
@@ -243,23 +283,28 @@
     "slug": "fuel-oil-low-sulphur-fuel-oil-supplier-aurangabad",
     "category": "Fuel Oil",
     "subproduct": "Low Sulphur Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Aurangabad",
     "title": "Low Sulphur Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp"
     ],
     "productname": "Low Sulphur Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
     "areanames": [
       "Waluj MIDC",
       "Shendra MIDC",
@@ -273,23 +318,28 @@
     "slug": "fuel-oil-low-sulphur-furnace-oil-supplier-kolhapur",
     "category": "Fuel Oil",
     "subproduct": "Low Sulphur Furnace oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Kolhapur",
     "title": "Low Sulphur Furnace oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp"
     ],
     "productname": "Low Sulphur Furnace oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "areanames": [
       "Shiroli MIDC",
       "Gokul Shirgaon MIDC",
@@ -303,23 +353,28 @@
     "slug": "fuel-oil-fuel-oil-supplier-goa",
     "category": "Fuel Oil",
     "subproduct": "Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Goa",
     "title": "Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg"
     ],
     "productname": "Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "areanames": [
       "Verna Industrial Estate",
       "Kundaim Industrial Estate",
@@ -333,23 +388,28 @@
     "slug": "fuel-oil-furnace-oil-supplier-hubli",
     "category": "Fuel Oil",
     "subproduct": "Furnace Oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Hubli",
     "title": "Furnace Oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png"
     ],
     "productname": "Furnace Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "areanames": [
       "Gokul Industrial Estate",
       "Tarihal Industrial Area",
@@ -363,23 +423,28 @@
     "slug": "fuel-oil-hight-viscocity-fuel-oil-supplier-belgaum",
     "category": "Fuel Oil",
     "subproduct": "Hight Viscocity Fuel Oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Belgaum",
     "title": "Hight Viscocity Fuel Oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg"
     ],
     "productname": "Hight Viscocity Fuel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
     "areanames": [
       "Udyambag Industrial Estate",
       "Macche Industrial Zone",
@@ -393,23 +458,28 @@
     "slug": "fuel-oil-marine-fuel-oil-supplier-tumkur",
     "category": "Fuel Oil",
     "subproduct": "Marine Fuel Oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Tumkur",
     "title": "Marine Fuel Oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg"
     ],
     "productname": "Marine Fuel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
     "areanames": [
       "Vasanthanarasapura Industrial Area",
       "Dobbaspet Industrial Estate",
@@ -423,23 +493,28 @@
     "slug": "fuel-oil-heavy-fuel-oil-supplier-bengaluru",
     "category": "Fuel Oil",
     "subproduct": "Heavy Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Bengaluru",
     "title": "Heavy Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
     ],
     "productname": "Heavy Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "areanames": [
       "Peenya Industrial Area",
       "Bommasandra Industrial Area",
@@ -453,23 +528,28 @@
     "slug": "fuel-oil-resudue-fuel-oil-supplier-silvassa",
     "category": "Fuel Oil",
     "subproduct": "Resudue Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Silvassa",
     "title": "Resudue Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg"
     ],
     "productname": "Resudue Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
     "areanames": [
       "Amli Industrial Estate",
       "Kherdi Industrial Zone",
@@ -483,23 +563,28 @@
     "slug": "fuel-oil-industrial-fuel-oil-supplier-vapi",
     "category": "Fuel Oil",
     "subproduct": "Industrial Fuel Oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Vapi",
     "title": "Industrial Fuel Oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg"
     ],
     "productname": "Industrial Fuel Oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
     "areanames": [
       "GIDC Vapi Industrial Estate",
       "Gunjan Industrial Zone",
@@ -513,23 +598,28 @@
     "slug": "fuel-oil-black-fuel-oil-supplier-surat",
     "category": "Fuel Oil",
     "subproduct": "Black Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Surat",
     "title": "Black Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png"
     ],
     "productname": "Black Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
     "areanames": [
       "Udhna Industrial Estate",
       "Sachin GIDC",
@@ -543,24 +633,29 @@
     "slug": "fuel-oil-low-sulphur-fuel-oil-supplier-ahemdabad",
     "category": "Fuel Oil",
     "subproduct": "Low Sulphur Fuel oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Ahemdabad",
     "title": "Low Sulphur Fuel oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png"
     ],
     "productname": "Low Sulphur Fuel oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
-     "areanames": [
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+    "areanames": [
       "Vatva GIDC",
       "Naroda GIDC",
       "Odhav Industrial Estate",
@@ -573,23 +668,28 @@
     "slug": "fuel-oil-low-sulphur-furnace-oil-supplier-dhule",
     "category": "Fuel Oil",
     "subproduct": "Low Sulphur Furnace oil",
-    "objective": "Supplier",
+    "objective": "Distributor",
     "city": "Dhule",
     "title": "Low Sulphur Furnace oil",
     "subtitle": "Premium-grade fuel oil for industrial combustion systems and heating applications",
     "description": "Fuel oil suitable for heavy machinery, marine engines, and boiler operations. Provides consistent thermal output and energy efficiency.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg"
     ],
     "productname": "Low Sulphur Furnace oil",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749194122/Frame_447_j3t8pq.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
     "usesdescription": [
       "Ideal for industrial furnaces and kilns",
       "Used in marine diesel engines",
       "Supports efficient boiler performance"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
     "areanames": [
       "MIDC Dhule",
       "Avdhan Industrial Zone",
