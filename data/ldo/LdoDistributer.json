@@ -7,20 +7,19 @@
     "city": "Mumbai",
     "title": "Light Diesel Oil",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+    "description": "Light Diesel Oil is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Light Diesel Oil is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "areanames": [
       "Andheri MIDC",
       "Marol Industrial Estate",
@@ -38,20 +37,19 @@
     "city": "Navi Mumbai",
     "title": "Light Fuel Oil",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+    "description": "Light Fuel Oil is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Light Fuel Oil is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "areanames": [
       "Turbhe MIDC",
       "TTC Industrial Area",
@@ -69,20 +67,19 @@
     "city": "Thane",
     "title": "Eco Blend LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+    "description": "Eco Blend LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Eco Blend LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "areanames": [
       "Wagle Industrial Estate",
       "Kalwa Industrial Area",
@@ -100,20 +97,19 @@
     "city": "Palghar",
     "title": "Low Sulphur LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+    "description": "Low Sulphur LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Low Sulphur LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
     "areanames": [
       "Boisar MIDC",
       "Tarapur MIDC",
@@ -131,20 +127,19 @@
     "city": "Raigad",
     "title": "Marine Grade LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+    "description": "Marine Grade LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Marine Grade LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
     "areanames": [
       "Taloja MIDC",
       "Patalganga MIDC",
@@ -162,20 +157,19 @@
     "city": "Panvel",
     "title": "Industrial Grade LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+    "description": "Industrial Grade LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Industrial Grade LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "areanames": [
       "New Panvel Industrial Node",
       "Kalundre MIDC",
@@ -193,20 +187,19 @@
     "city": "Pune",
     "title": "Low Viscocity Oil",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "description": "Low Viscocity Oil is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Low Viscocity Oil is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
     "areanames": [
       "Chakan MIDC",
       "Ranjangaon MIDC",
@@ -224,20 +217,19 @@
     "city": "Nashik",
     "title": "Light Density Oil",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+    "description": "Light Density Oil is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Light Density Oil is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "areanames": [
       "Satpur MIDC",
       "Ambad MIDC",
@@ -255,20 +247,19 @@
     "city": "Aurangabad",
     "title": "Boiler LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+    "description": "Boiler LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Boiler LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
     "areanames": [
       "Waluj MIDC",
       "Shendra MIDC",
@@ -286,20 +277,19 @@
     "city": "Kolhapur",
     "title": "Hotmix LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
+    "description": "Hotmix LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Hotmix LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "areanames": [
       "Shiroli MIDC",
       "Gokul Shirgaon MIDC",
@@ -317,20 +307,19 @@
     "city": "Goa",
     "title": "Light Diesel Oil",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
+    "description": "Light Diesel Oil is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Light Diesel Oil is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
     "areanames": [
       "Verna Industrial Estate",
       "Kundaim Industrial Estate",
@@ -348,20 +337,19 @@
     "city": "Hubli",
     "title": "Light Fuel Oil",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+    "description": "Light Fuel Oil is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Light Fuel Oil is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
     "areanames": [
       "Gokul Industrial Estate",
       "Tarihal Industrial Area",
@@ -379,20 +367,19 @@
     "city": "Belgaum",
     "title": "Eco Blend LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+    "description": "Eco Blend LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Eco Blend LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
     "areanames": [
       "Udyambag Industrial Estate",
       "Macche Industrial Zone",
@@ -410,20 +397,19 @@
     "city": "Tumkur",
     "title": "Low Sulphur LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+    "description": "Low Sulphur LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
     "images": [
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Low Sulphur LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "areanames": [
       "Vasanthanarasapura Industrial Area",
       "Dobbaspet Industrial Estate",
@@ -441,20 +427,19 @@
     "city": "Bengaluru",
     "title": "Marine Grade LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+    "description": "Marine Grade LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Marine Grade LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
     "areanames": [
       "Peenya Industrial Area",
       "Bommasandra Industrial Area",
@@ -472,20 +457,19 @@
     "city": "Silvassa",
     "title": "Industrial Grade LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+    "description": "Industrial Grade LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Industrial Grade LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "areanames": [
       "Amli Industrial Estate",
       "Kherdi Industrial Zone",
@@ -503,20 +487,19 @@
     "city": "Vapi",
     "title": "Low Viscocity Oil",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
+    "description": "Low Viscocity Oil is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Low Viscocity Oil is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
     "areanames": [
       "GIDC Vapi Industrial Estate",
       "Gunjan Industrial Zone",
@@ -534,20 +517,19 @@
     "city": "Surat",
     "title": "Light Density Oil",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
+    "description": "Light Density Oil is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Light Density Oil is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "areanames": [
       "Udhna Industrial Estate",
       "Sachin GIDC",
@@ -565,20 +547,19 @@
     "city": "Ahmedabad",
     "title": "Boiler LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
+    "description": "Boiler LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Boiler LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
     "areanames": [
       "Vatva GIDC",
       "Naroda GIDC",
@@ -596,20 +577,19 @@
     "city": "Dhule",
     "title": "Hotmix LDO",
     "subtitle": "High-quality light diesel oil ideal for industrial and commercial use",
-    "description": "LDO is widely used in boilers, furnaces, and other industrial heating applications due to its efficiency and cost-effectiveness.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
+    "description": "Hotmix LDO is a premium-grade Light Diesel Oil product widely used in industrial boilers, furnaces, and generators. It ensures consistent combustion and energy efficiency, making it ideal for manufacturing and power sectors.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
     ],
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
-    "usesdescription": [
-      "Used in boilers and furnaces",
-      "Suitable for hotmix plants and road rollers",
-      "Industrial heating applications"
-    ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
+    "usesdescription": "Hotmix LDO is primarily used in textile mills, chemical factories, brick kilns, and road construction. It provides high calorific value and stable performance under varied industrial conditions.",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
     "areanames": [
       "MIDC Dhule",
       "Avdhan Industrial Zone",
