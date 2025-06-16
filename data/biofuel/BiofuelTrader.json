@@ -7,25 +7,22 @@
     "city": "Mumbai",
     "title": "Biodiesel",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "description": "Biodiesel offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg"
     ],
     "productname": "Biodiesel",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
     "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
     "areanames": [
@@ -45,27 +42,24 @@
     "city": "Navi Mumbai",
     "title": "Biofuel",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
+    "description": "Biofuel offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
     ],
     "productname": "Biofuel",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
     "areanames": [
       "Turbhe MIDC",
       "TTC Industrial Area",
@@ -83,27 +77,24 @@
     "city": "Thane",
     "title": "Biodiesel B100",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
+    "description": "Biodiesel B100 offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp"
     ],
     "productname": "Biodiesel B100",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
     "areanames": [
       "Wagle Industrial Estate",
       "Kalwa Industrial Area",
@@ -121,27 +112,24 @@
     "city": "Palghar",
     "title": "Biodiesel b20",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
+    "description": "Biodiesel b20 offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg"
     ],
     "productname": "Biodiesel b20",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
     "areanames": [
       "Boisar MIDC",
       "Tarapur MIDC",
@@ -159,27 +147,24 @@
     "city": "Raigad",
     "title": "Biodiesel Methyl Easter",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+    "description": "Biodiesel Methyl Easter offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg"
     ],
     "productname": "Biodiesel Methyl Easter",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
     "areanames": [
       "Taloja MIDC",
       "Patalganga MIDC",
@@ -197,25 +182,22 @@
     "city": "Panvel",
     "title": "Bioethanol E85",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
+    "description": "Bioethanol E85 offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg"
     ],
     "productname": "Bioethanol E85",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
     "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
     "areanames": [
@@ -235,27 +217,24 @@
     "city": "Pune",
     "title": "Bioethanol E100",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+    "description": "Bioethanol E100 offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg"
     ],
     "productname": "Bioethanol E100",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
     "areanames": [
       "Chakan MIDC",
       "Ranjangaon MIDC",
@@ -273,25 +252,22 @@
     "city": "Nashik",
     "title": "Used Cooking Oil Biofuel",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
+    "description": "Used Cooking Oil Biofuel offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg"
     ],
     "productname": "Used Cooking Oil Biofuel",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
     "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
     "areanames": [
@@ -311,27 +287,24 @@
     "city": "Aurangabad",
     "title": "Jatropha-Based Biofuel",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+    "description": "Jatropha-Based Biofuel offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
     "images": [
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg"
     ],
     "productname": "Jatropha-Based Biofuel",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
     "areanames": [
       "Waluj MIDC",
       "Shendra MIDC",
@@ -349,27 +322,24 @@
     "city": "Kolhapur",
     "title": "Biodiesel",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "description": "Biodiesel offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg"
     ],
     "productname": "Biodiesel",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
     "areanames": [
       "Shiroli MIDC",
       "Gokul Shirgaon MIDC",
@@ -387,27 +357,24 @@
     "city": "Goa",
     "title": "Biofuel",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
+    "description": "Biofuel offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
     "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
     ],
     "productname": "Biofuel",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
     "areanames": [
       "Verna Industrial Estate",
       "Kundaim Industrial Estate",
@@ -425,27 +392,24 @@
     "city": "Hubli",
     "title": "Biodiesel B100",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
+    "description": "Biodiesel B100 offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg"
     ],
     "productname": "Biodiesel B100",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
     "areanames": [
       "Gokul Industrial Estate",
       "Tarihal Industrial Area",
@@ -463,27 +427,24 @@
     "city": "Belgaum",
     "title": "Biodiesel b20",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
+    "description": "Biodiesel b20 offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
     "images": [
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp"
     ],
     "productname": "Biodiesel b20",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
     "areanames": [
       "Udyambag Industrial Estate",
       "Macche Industrial Zone",
@@ -501,27 +462,24 @@
     "city": "Tumkur",
     "title": "Biodiesel Methyl Easter",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+    "description": "Biodiesel Methyl Easter offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg"
     ],
     "productname": "Biodiesel Methyl Easter",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
     "areanames": [
       "Vasanthanarasapura Industrial Area",
       "Dobbaspet Industrial Estate",
@@ -539,27 +497,24 @@
     "city": "Bengaluru",
     "title": "Bioethanol E85",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
+    "description": "Bioethanol E85 offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg"
     ],
     "productname": "Bioethanol E85",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
     "areanames": [
       "Peenya Industrial Area",
       "Bommasandra Industrial Area",
@@ -577,27 +532,24 @@
     "city": "Silvassa",
     "title": "Bioethanol E100",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+    "description": "Bioethanol E100 offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
     "images": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg"
     ],
     "productname": "Bioethanol E100",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
     "areanames": [
       "Amli Industrial Estate",
       "Kherdi Industrial Zone",
@@ -615,27 +567,24 @@
     "city": "Vapi",
     "title": "Used Cooking Oil Biofuel",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
+    "description": "Used Cooking Oil Biofuel offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg"
     ],
     "productname": "Used Cooking Oil Biofuel",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
     "areanames": [
       "GIDC Vapi Industrial Estate",
       "Gunjan Industrial Zone",
@@ -653,25 +602,22 @@
     "city": "Surat",
     "title": "Jatropha-Based Biofuel",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+    "description": "Jatropha-Based Biofuel offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg"
     ],
     "productname": "Jatropha-Based Biofuel",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
     "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
     "areanames": [
@@ -691,27 +637,24 @@
     "city": "Ahmedabad",
     "title": "Biodiesel",
     "subtitle": "Sustainable and clean-burning biofuel solution",
-    "description": "Environmentally friendly alternative to conventional fuels, widely used in transportation and industry with lower carbon emissions.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "description": "Biodiesel offers reliable biodiesel solutions for energy needs with sustainability and low emissions.",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/biodiesel-oil-1705649862-6691637_nw28gg.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/mho-biodiesel-oil-1742901646-7920114_vavc5h.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_wirnoc.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/biodiesel-b-100-500x500_hf17p4.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/Bio-Diesel-Oil_xghn8k.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/1200px-Biodiesel-2_oby84g.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/images_1_i96s3v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg"
     ],
     "productname": "Biodiesel",
-    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749205674/biofuel_rbd2xm.png",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750067535/Frame_447_8_d2qz4p.png",
     "usesdescription": [
-      "Used in automotive engines",
-      "Power generation",
-      "Industrial heating processes"
+      "Used as an alternative to diesel in transportation and industrial generators.",
+      "Effective in reducing carbon footprint for logistics fleets.",
+      "Compatible with most conventional diesel engines without modification."
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209057/images_2_irxjoq.jpg",
+    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749209058/mineral-oils_ol7iw1.jpg",
     "areanames": [
       "Vatva GIDC",
       "Naroda GIDC",
