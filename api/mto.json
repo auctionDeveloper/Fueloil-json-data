@@ -36,18 +36,18 @@
     },
     "Reducer": {
       "slug": "reducer",
-      "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+     "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg"
       ],
       "title": "MTO - Mineral Turpentine Oil",
       "subtitle": "Trusted Industrial Grade Solvent for Multi-Purpose Applications",
       "description": "Navi Mumbai, known as the planned satellite city of India\u2019s financial capital, is also known as one of the key industrial zones in Maharashtra. It has businesses like MTO Paint industry, Printing ink, chemical industries, surfacing of textiles, Textile finishing, Engineering workshops etc. These industries use MTO for critical applications like thinning, cleaning, and degreasing. \nFor us, serving these performance specifications is not an issue, because we are known as the best MTO Supplier in Navi Mumbai, where we offer refined low odour high solvency turpentine MTO compliant with industry safety and quality standards. We serve small and mid-sized businesses or larger scale plants, supplying throughout the city in bulk tankers, or even in drums keeping the relation and demand of specific operations in consideration.",
-      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
       "productname": "MTO",
       "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
       "usesdescription": "\u2022 Printing Ink Industries \u2013 for ink formulation and cleaning of the machinery\n\u2022 Chemical Processing Units \u2013 base solvent for intermediates and formulations\n\u2022 Surface Coating and Metal Fabrication \u2013 for degreasing, cleaning, and painting prep\n\u2022 Engineering Workshops \u2013 for mechanical cleaning, surface treatment, and parts prep",
@@ -65,12 +65,12 @@
     "Mineral Turpentine Oil": {
       "slug": "mineral-turpentine-oil",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg"
       ],
       "title": "MTO - Mineral Turpentine Oil",
       "subtitle": "Trusted Industrial Grade Solvent for Multi-Purpose Applications",
@@ -92,13 +92,13 @@
     },
     "Paint Thiner": {
       "slug": "paint-thiner",
-      "images": [
+     "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg"
       ],
       "title": "MTO - Mineral Turpentine Oil",
       "subtitle": "Trusted Industrial Grade Solvent for Multi-Purpose Applications",
@@ -120,13 +120,13 @@
     },
     "Industrial Turpentine Oil": {
       "slug": "industrial-turpentine-oil",
-      "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
+     "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg"
       ],
       "title": "MTO - Mineral Turpentine Oil",
       "subtitle": "Trusted Industrial Grade Solvent for Multi-Purpose Applications",
@@ -148,13 +148,13 @@
     },
     "Industrial Thiner": {
       "slug": "industrial-thiner",
-      "images": [
+   "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg"
       ],
       "title": "MTO - Mineral Turpentine Oil",
       "subtitle": "Trusted Industrial Grade Solvent for Multi-Purpose Applications",
@@ -176,13 +176,13 @@
     },
     "Industrial Solvent": {
       "slug": "industrial-solvent",
-      "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+    "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg"
       ],
       "title": "MTO - Mineral Turpentine Oil",
       "subtitle": "Trusted Industrial Grade Solvent for Multi-Purpose Applications",
@@ -204,13 +204,13 @@
     },
     "Industrial Composite Mixture": {
       "slug": "industrial-composite-mixture",
-      "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+   "images": [
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg"
       ],
       "title": "MTO - Mineral Turpentine Oil",
       "subtitle": "Trusted Industrial Grade Solvent for Multi-Purpose Applications",
@@ -232,13 +232,13 @@
     },
     "MTO Petroleum Oil": {
       "slug": "mto-petroleum-oil",
-      "images": [
+     "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328945/MTO_ea4hqt.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg"
       ],
       "title": "MTO - Mineral Turpentine Oil",
       "subtitle": "Trusted Industrial Grade Solvent for Multi-Purpose Applications",
@@ -261,12 +261,12 @@
     "Mix aromatic Solvent": {
       "slug": "mix-aromatic-solvent",
       "images": [
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/bbcdd4_5517a20d622f4cb3872ef50c2d44b842_mv2_teafuk.webp",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328940/Mineral-Turpentine-Oil_nen7pk.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328948/MTO.jpg.crdownload_def2f1.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328950/MTO3_yjafbg.jpg",
-        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg"
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328951/MTO4_ueulno.jpg",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328943/mineral-turpentine-oil-7_zhuphe.webp",
+        "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg"
       ],
       "title": "MTO - Mineral Turpentine Oil",
       "subtitle": "Trusted Industrial Grade Solvent for Multi-Purpose Applications",
