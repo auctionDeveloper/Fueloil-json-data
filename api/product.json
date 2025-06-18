@@ -152,25 +152,55 @@
   ]
 }
 ,
-    "Solvent": {
-  "title": "Solvent",
-  "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
-  "description": "Our industrial-grade solvents are specially formulated for use in paints, coatings, adhesives, and cleaning agents. They provide excellent solvency power, fast evaporation rates, and minimal residue, ensuring superior product quality and process efficiency across various manufacturing applications.",
-  "coa_images":  "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
-  "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-  "subproducts": [
-    { "name": "Industrial Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886071/ChatGPT_Image_Jun_14_2025_11_05_15_AM_uxuaba.png" },
-    { "name": "Aromatic Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_06_57_AM_hpefnw.png" },
-    { "name": "Aliphatic Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png" },
-    { "name": "High Flash Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png" },
-    { "name": "Paint Thinner Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png" },
-    { "name": "Rubber Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_09_01_AM_v04kem.png" },
-    { "name": "Adhesive Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png" },
-    { "name": "Pharmaceutical Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_38_42_AM_gyihrp.png" },
-    { "name": "Cleaning Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png" },
-    { "name": "Extraction Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png" }
-  ]
-}
+     "Solvent": {
+    "title": "Solvent",
+    "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
+    "description": "Our industrial-grade solvents are specially formulated for use in paints, coatings, adhesives, and cleaning agents. They provide excellent solvency power, fast evaporation rates, and minimal residue, ensuring superior product quality and process efficiency across various manufacturing applications.",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
+    "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "subproducts": [
+      {
+        "name": "Industrial Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp"
+      },
+      {
+        "name": "Aromatic Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
+      },
+      {
+        "name": "Aliphatic Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp"
+      },
+      {
+        "name": "High Flash Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp"
+      },
+      {
+        "name": "Paint Thinner Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg"
+      },
+      {
+        "name": "Rubber Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp"
+      },
+      {
+        "name": "Adhesive Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp"
+      },
+      {
+        "name": "Pharmaceutical Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp"
+      },
+      {
+        "name": "Cleaning Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
+      },
+      {
+        "name": "Extraction Solvent",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg"
+      }
+    ]
+  }
 ,
 "Briquette": {
   "title": "Briquette",
