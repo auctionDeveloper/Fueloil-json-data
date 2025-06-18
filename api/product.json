@@ -220,25 +220,43 @@
   ]
 }
 ,
-    "CNSL Resin": {
-  "title": "CNSL Resin",
-  "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328939/5b62951035ebb705128047bc_jkd9hn.webp",
-  "description": "CNSL Resin is a natural resin extracted from cashew nutshells, widely used in coatings, adhesives, and friction materials. Its excellent heat resistance, chemical stability, and adhesive properties make it a valuable raw material in various industrial formulations.",
-  "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750056674/CNSLRESIN_COA_zfscyw.png",
-  "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-  "subproducts": [
-    { "name": "Friction Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885946/ChatGPT_Image_Jun_14_2025_11_55_33_AM_takxwa.png" },
-    { "name": "Coating Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885946/ChatGPT_Image_Jun_14_2025_12_00_28_PM_ft1py5.png" },
-    { "name": "Adhesive Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885946/ChatGPT_Image_Jun_14_2025_11_59_04_AM_kwgali.png" },
-    { "name": "Modified CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885946/ChatGPT_Image_Jun_14_2025_12_01_49_PM_lfzcf3.png" },
-    { "name": "Phenolic CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_04_34_PM_qjjhl6.png" },
-    { "name": "Epoxy Modified CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_12_32_PM_jt5enw.png" },
-    { "name": "Polyurethane CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_14_43_PM_chma3i.png" },
-    { "name": "High-Viscosity CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_23_02_PM_eazu4m.png" },
-    { "name": "Oil-Resistant CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885947/ChatGPT_Image_Jun_14_2025_12_26_00_PM_xmnxlo.png" },
-    { "name": "Insulation Grade CNSL Resin", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885948/ChatGPT_Image_Jun_14_2025_12_21_04_PM_btfz3s.png" }
-  ]
-}
+      "CNSL Resin": {
+    "title": "CNSL Resin",
+    "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750251480/cashew-nut-shell-liquid-oil-500x500_fwkmo8.webp",
+    "description": "CNSL Resin is a natural resin extracted from cashew nutshells, widely used in coatings, adhesives, and friction materials. Its excellent heat resistance, chemical stability, and adhesive properties make it a valuable raw material in various industrial formulations.",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750056674/CNSLRESIN_COA_zfscyw.png",
+    "imagesofmtosubproct": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "subproducts": [
+      {
+        "name": "Friction Grade CNSL Resin",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750251481/raw-cnsl-oil-500x500_1_crqciq.webp"
+      },
+      {
+        "name": "Coating Grade CNSL Resin",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750251480/raw-cnsl-oil-500x500_qxqdcy.webp"
+      },
+      {
+        "name": "Adhesive Grade CNSL Resin",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750251480/product-jpeg-500x500_ntw59j.webp"
+      },
+      {
+        "name": "Modified CNSL Resin",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750251480/mono-unsaturated-cashew-nut-shell-liquid-500x500_jyb38v.webp"
+      },
+      {
+        "name": "Phenolic CNSL Resin",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750251480/raw-cashew-nut-shell-liquid-oil-500x500_bl60yc.webp"
+      },
+      {
+        "name": "Epoxy Modified CNSL Resin",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750251480/img-20230707-wa0015-250x250_orvmfz.webp"
+      },
+      {
+        "name": "Polyurethane CNSL Resin",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750251480/cnsl-vietnam-oil-500x500_enf2m2.webp"
+      }
+    ]
+  }
 ,
   "Lamp Oil": {
   "title": "Lamp Oil",
