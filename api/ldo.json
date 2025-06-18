@@ -4,7 +4,7 @@
       "slug": "light-diesel-oil",
       "title": "Light Diesel Oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Light Diesel Oil is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Light Diesel Oil is a versatile and economical fuel used in boilers, furnaces, and agricultural machinery. Its low viscosity ensures smooth atomization and efficient burning.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
@@ -14,13 +14,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Ideal for agricultural pump sets",
+        "Efficient in low-pressure burners",
+        "Used in brick kilns and furnaces",
+        "Backup power generation",
+        "Suitable for industrial heating"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
       "areanames": [
@@ -38,7 +38,7 @@
       "slug": "light-fuel-oil",
       "title": "Light Fuel Oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Light Fuel Oil is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Light Fuel Oil offers enhanced combustion properties for heating systems and industrial engines. It burns cleaner, reducing maintenance costs.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
@@ -48,13 +48,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Industrial heating systems",
+        "Used in compact generators",
+        "Machinery lubrication",
+        "Heavy equipment fuel",
+        "Steel and textile industries"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
       "areanames": [
@@ -72,7 +72,7 @@
       "slug": "eco-blend-ldo",
       "title": "Eco Blend LDO",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Eco Blend LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Eco Blend LDO is an environmentally conscious option designed for reduced emissions and high efficiency, widely used in eco-sensitive zones.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
@@ -82,13 +82,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Used in green-rated industries",
+        "Reduced particulate emission systems",
+        "Backup for solar thermal plants",
+        "Fertilizer production plants",
+        "Processed food heating units"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
       "areanames": [
@@ -106,7 +106,7 @@
       "slug": "low-sulphur-ldo",
       "title": "Low Sulphur LDO",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Low Sulphur LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Low Sulphur LDO minimizes SOx emissions, making it suitable for use in urban and environmentally regulated areas.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
@@ -116,13 +116,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Urban area industrial plants",
+        "Textile dyeing applications",
+        "Low-emission furnace operations",
+        "Ideal for food-grade industries",
+        "Pharmaceutical boilers"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
       "areanames": [
@@ -140,7 +140,7 @@
       "slug": "marine-grade-ldo",
       "title": "Marine Grade LDO",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Marine Grade LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Marine Grade LDO is crafted for marine engines and heavy vessels, offering optimal power output and stability under high moisture conditions.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
@@ -150,13 +150,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Marine and ship engines",
+        "Used in offshore rigs",
+        "Oceanic boiler systems",
+        "Port cargo handling machines",
+        "Heavy-duty marine applications"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330244/5feaba0cc682dc0001bfad02_cev84l.jpg",
       "areanames": [
@@ -174,7 +174,7 @@
       "slug": "industrial-grade-ldo",
       "title": "Industrial Grade LDO",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Industrial Grade LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Industrial Grade LDO is a robust fuel used in heavy machinery and continuous process industries, ensuring minimal carbon residue.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330355/light-diesel-oils_pzd3rh.jpg",
@@ -184,13 +184,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Cement and ceramic kilns",
+        "Chemical processing units",
+        "Used in metallurgical furnaces",
+        "Oil blending applications",
+        "Heavy mechanical workshops"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
       "areanames": [
@@ -208,7 +208,7 @@
       "slug": "low-viscocity-oil",
       "title": "Low Viscocity Oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Low Viscocity Oil is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Low Viscosity Oil is best suited for applications requiring smooth flow and quick combustion, particularly in modern burner systems.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp",
@@ -218,13 +218,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330254/automobile-bio-diesel-250x250_gdmntm.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Used in low-pressure burners",
+        "Precision heating processes",
+        "Thermic fluid heating systems",
+        "Blending into other fuels",
+        "Lubricating heating gearboxes"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
       "areanames": [
@@ -242,7 +242,7 @@
       "slug": "light-density-oil",
       "title": "Light Density Oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Light Density Oil is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Light Density Oil ensures high energy efficiency and is designed for lighter industrial processes needing consistent flame.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330353/LDO1_rqcui1.jpg",
@@ -252,13 +252,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Plastic molding industry",
+        "Preheating applications",
+        "Textile ironing systems",
+        "Printing press ovens",
+        "Compact fuel burners"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg",
       "areanames": [
@@ -276,7 +276,7 @@
       "slug": "boiler-ldo",
       "title": "Boiler LDO",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Boiler LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Boiler LDO is specially engineered for steam generation in boilers, offering high thermal output with lower carbon soot formation.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
@@ -286,13 +286,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_1_fp8dt0.webp"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Steam boiler systems",
+        "Commercial laundry boilers",
+        "Thermic oil heaters",
+        "Chemical reactor heating",
+        "Water heating for hotels"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330256/furnace-oil-burning-grade-250x250_qvgq5m.jpg",
       "areanames": [
@@ -310,7 +310,7 @@
       "slug": "hotmix-ldo",
       "title": "Hotmix LDO",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Hotmix LDO is widely used in furnaces, boilers, hot mix plants, and marine engines. It provides consistent ignition, cleaner combustion, and optimal energy output, making it an ideal fuel for cost-effective thermal energy.",
+      "description": "Hotmix LDO is optimized for road construction mixing plants, ensuring uniform heat distribution and asphalt bonding.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO7_n2xcoi.jpg",
@@ -320,13 +320,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/light-diesel-oil-500x500_c0aqp3.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330354/LDO4_ewem0r.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750050224/ldo_cos_m19ove.png",
       "usesdescription": [
-        "Used in boilers and furnaces",
-        "Powering hot mix plants",
-        "Marine engine operations",
-        "Thermal fluid heating",
-        "Backup fuel for DG sets"
+        "Hotmix plant burners",
+        "Asphalt mixing units",
+        "Bitumen heaters",
+        "Road roller engine fuel",
+        "On-site thermal applications"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748330246/1000_F_117449575_zj3GyxUAJRjN2jfTJzm1TvLWaV0rvbck_cocgf9.jpg",
       "areanames": [
