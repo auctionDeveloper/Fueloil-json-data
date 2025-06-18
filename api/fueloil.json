@@ -4,7 +4,7 @@
       "slug": "fuel-oil",
       "title": "Fuel oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "Fuel oil is a versatile energy source primarily used in industrial boilers and furnaces. Its heavy consistency ensures prolonged burning time, making it an ideal choice for factories and manufacturing units seeking efficiency.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
@@ -14,13 +14,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Industrial heating in manufacturing plants",
+        "Used in shipping vessels as bunker fuel",
+        "Power backup for remote operations",
+        "Thermal processing and kiln operations",
+        "Chemical manufacturing heating requirements"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
       "areanames": [
@@ -38,7 +38,7 @@
       "slug": "furnace-oil",
       "title": "Furnace Oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "Furnace oil is widely used in industries for its affordability and high combustion value. It's essential for running large furnaces, rotary kilns, and ovens across cement, textile, and paper industries.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
@@ -48,13 +48,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Cement kiln and glass melting furnaces",
+        "Fuel for steam generators",
+        "Dryers in textile and chemical sectors",
+        "Heat source for industrial ovens",
+        "Fuel for water desalination plants"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
       "areanames": [
@@ -72,7 +72,7 @@
       "slug": "hight-viscocity-fuel-oil",
       "title": "Hight Viscocity Fuel Oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "High Viscosity Fuel Oil is a dense, slow-burning fuel designed for heavy-duty industrial engines and large-scale power plants. Its long burn cycle reduces fuel consumption in the long run.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
@@ -82,13 +82,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Large marine engines and cargo ships",
+        "Heavy industrial boilers",
+        "Municipal incineration plants",
+        "Long-duration heating applications",
+        "Heavy construction machinery"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
       "areanames": [
@@ -106,7 +106,7 @@
       "slug": "marine-fuel-oil",
       "title": "Marine Fuel Oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "Marine fuel oil is tailored to meet the demands of seafaring vessels, offering efficient combustion and reduced emissions in maritime engines.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
@@ -116,13 +116,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Main propulsion systems in cargo ships",
+        "Auxiliary engines on ferries",
+        "Fishing fleet power generation",
+        "Maritime heating systems",
+        "Port-based fuel supply operations"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
       "areanames": [
@@ -140,7 +140,7 @@
       "slug": "heavy-fuel-oil",
       "title": "Heavy Fuel oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "Heavy fuel oil is a low-cost energy source for high-capacity industrial applications. It is favored in foundries, furnaces, and smelters due to its intense heat output.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
@@ -150,13 +150,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Steel and iron furnaces",
+        "Glass manufacturing heat systems",
+        "High-pressure boiler applications",
+        "Road construction hot-mix plants",
+        "Bitumen heating and pumping"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
       "areanames": [
@@ -174,7 +174,7 @@
       "slug": "resudue-fuel-oil",
       "title": "Resudue Fuel oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "Residue fuel oil is a byproduct of crude refining, valued in sectors requiring uninterrupted, long-term heating processes. Its cost efficiency makes it viable for large-scale use.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
@@ -184,13 +184,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Feedstock for blending fuels",
+        "Asphalt production heating",
+        "Municipal heating utilities",
+        "Industrial drying ovens",
+        "High-capacity greenhouses"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
       "areanames": [
@@ -208,7 +208,7 @@
       "slug": "industrial-fuel-oil",
       "title": "Industrial Fuel Oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "Industrial Fuel Oil is specifically engineered for manufacturing operations where consistent temperature and high energy output are necessary for continuous processes.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
@@ -218,13 +218,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Forging and metal processing",
+        "Rubber vulcanization",
+        "Food processing boilers",
+        "Leather dyeing and drying",
+        "Industrial oven operations"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg",
       "areanames": [
@@ -242,7 +242,7 @@
       "slug": "black-fuel-oil",
       "title": "Black Fuel oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "Black Fuel Oil is used where heavy-duty, prolonged energy output is essential. Its thick consistency provides sustained heating over extended periods.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
@@ -252,13 +252,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Heavy furnaces in metallurgy",
+        "Heat source in asphalt mixers",
+        "Boilers in dye and paint industry",
+        "Backup fuel for power plants",
+        "Industrial bitumen plants"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
       "areanames": [
@@ -276,7 +276,7 @@
       "slug": "low-sulphur-fuel-oil",
       "title": "Low Sulphur Fuel oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "Low Sulphur Fuel Oil is an environmentally friendly alternative to traditional heavy fuels, meeting emission regulations in sensitive zones.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331074/NH-53-hub-for-illegal-furnace-oil-trade-1024x558_ngh3qx.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
@@ -286,13 +286,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Ships navigating emission-controlled areas",
+        "Clean industrial fuel in urban zones",
+        "Fuel for eco-certified plants",
+        "Low emission incinerators",
+        "Hospital boiler systems"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331066/fuel-furnace-oil_jv7frp.png",
       "areanames": [
@@ -310,7 +310,7 @@
       "slug": "low-sulphur-furnace-oil",
       "title": "Low Sulphur Furnace oil",
       "subtitle": "High-performance fuel for industrial and commercial heating applications",
-      "description": "Fuel oil is a heavy petroleum product used for generating heat and power in large-scale industrial operations. It is favored in manufacturing units, marine transport, and power plants due to its high energy density, reliability, and cost efficiency.",
+      "description": "Low Sulphur Furnace Oil combines efficiency with environmental compliance, making it suitable for industries with strict pollution norms.",
       "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331071/images_voahau.jpg",
       "images": [
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331072/Industrial-Furnace-Oil_xun7x8.webp",
@@ -320,13 +320,13 @@
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331052/640px-Residual_fuel_oil_ztrecb.jpg",
         "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331061/FO10_x0twll.jpg"
       ],
-      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+      "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750055192/FUELCOA_gcvrho.png",
       "usesdescription": [
-        "Fuel for steam boilers and industrial furnaces",
-        "Energy source for power generation plants",
-        "Marine diesel substitute for shipping vessels",
-        "Heating fuel for cement and textile industries",
-        "Backup fuel for large-scale diesel generators"
+        "Clean-burning heating fuel",
+        "Low-emission industrial burners",
+        "Chemical plant furnaces",
+        "Use in air quality-regulated zones",
+        "Modern fuel-injected boiler systems"
       ],
       "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748331057/crude-oil-surface-background-textured-pollution-oil-products-rude-oil-surface-background-textured-mineral-oil-hands-171674329_d81ihj.jpg",
       "areanames": [
