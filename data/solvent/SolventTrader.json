@@ -8,19 +8,21 @@
     "title": "Industrial Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Industrial Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp"
     ],
     "productname": "Industrial Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Industrial Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg"
+    ],
     "areanames": [
       "Andheri MIDC",
       "Marol Industrial Estate",
@@ -39,19 +41,21 @@
     "title": "Aromatic Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Aromatic Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_06_57_AM_hpefnw.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg"
     ],
     "productname": "Aromatic Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Aromatic Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg"
+    ],
     "areanames": [
       "Turbhe MIDC",
       "TTC Industrial Area",
@@ -70,19 +74,21 @@
     "title": "Aliphatic Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Aliphatic Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_09_01_AM_v04kem.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
     ],
     "productname": "Aliphatic Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Aliphatic Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp"
+    ],
     "areanames": [
       "Wagle Industrial Estate",
       "Kalwa Industrial Area",
@@ -101,19 +107,21 @@
     "title": "High Flash Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "High Flash Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp"
     ],
     "productname": "High Flash Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "High Flash Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_06_57_AM_hpefnw.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg"
+    ],
     "areanames": [
       "Boisar MIDC",
       "Tarapur MIDC",
@@ -132,19 +140,21 @@
     "title": "Paint Thinner Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Paint Thinner Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886071/ChatGPT_Image_Jun_14_2025_11_05_15_AM_uxuaba.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg"
     ],
     "productname": "Paint Thinner Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Paint Thinner Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886071/ChatGPT_Image_Jun_14_2025_11_05_15_AM_uxuaba.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg"
+    ],
     "areanames": [
       "Taloja MIDC",
       "Patalganga MIDC",
@@ -163,19 +173,21 @@
     "title": "Rubber Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Rubber Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
     ],
     "productname": "Rubber Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Rubber Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886071/ChatGPT_Image_Jun_14_2025_11_05_15_AM_uxuaba.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp"
+    ],
     "areanames": [
       "New Panvel Industrial Node",
       "Kalundre MIDC",
@@ -194,19 +206,21 @@
     "title": "Adhesive Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Adhesive Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg"
     ],
     "productname": "Adhesive Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Adhesive Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_38_42_AM_gyihrp.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp"
+    ],
     "areanames": [
       "Chakan MIDC",
       "Ranjangaon MIDC",
@@ -225,19 +239,21 @@
     "title": "Pharmaceutical Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Pharmaceutical Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_09_01_AM_v04kem.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
     ],
     "productname": "Pharmaceutical Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Pharmaceutical Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg"
+    ],
     "areanames": [
       "Satpur MIDC",
       "Ambad MIDC",
@@ -256,19 +272,21 @@
     "title": "Cleaning Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Cleaning Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
     ],
     "productname": "Cleaning Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Cleaning Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886071/ChatGPT_Image_Jun_14_2025_11_05_15_AM_uxuaba.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp"
+    ],
     "areanames": [
       "Waluj MIDC",
       "Shendra MIDC",
@@ -287,19 +305,21 @@
     "title": "Extraction Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Extraction Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg"
     ],
     "productname": "Extraction Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Extraction Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_06_57_AM_hpefnw.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp"
+    ],
     "areanames": [
       "Shiroli MIDC",
       "Gokul Shirgaon MIDC",
@@ -318,19 +338,21 @@
     "title": "Industrial Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Industrial Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_09_01_AM_v04kem.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp"
     ],
     "productname": "Industrial Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Industrial Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_06_57_AM_hpefnw.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg"
+    ],
     "areanames": [
       "Verna Industrial Estate",
       "Kundaim Industrial Estate",
@@ -349,19 +371,21 @@
     "title": "Aromatic Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Aromatic Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg"
     ],
     "productname": "Aromatic Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Aromatic Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp"
+    ],
     "areanames": [
       "Gokul Industrial Estate",
       "Tarihal Industrial Area",
@@ -380,19 +404,21 @@
     "title": "Aliphatic Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Aliphatic Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp"
     ],
     "productname": "Aliphatic Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Aliphatic Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp"
+    ],
     "areanames": [
       "Udyambag Industrial Estate",
       "Macche Industrial Zone",
@@ -411,19 +437,21 @@
     "title": "High Flash Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "High Flash Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
     ],
     "productname": "High Flash Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "High Flash Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
+    ],
     "areanames": [
       "Vasanthanarasapura Industrial Area",
       "Dobbaspet Industrial Estate",
@@ -442,19 +470,21 @@
     "title": "Paint Thinner Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Paint Thinner Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_06_57_AM_hpefnw.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp"
     ],
     "productname": "Paint Thinner Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Paint Thinner Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_38_42_AM_gyihrp.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/images_1_gfpuc1.jpg"
+    ],
     "areanames": [
       "Peenya Industrial Area",
       "Bommasandra Industrial Area",
@@ -473,19 +503,21 @@
     "title": "Rubber Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Rubber Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp"
     ],
     "productname": "Rubber Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Rubber Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp"
+    ],
     "areanames": [
       "Amli Industrial Estate",
       "Kherdi Industrial Zone",
@@ -504,19 +536,21 @@
     "title": "Adhesive Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Adhesive Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp"
     ],
     "productname": "Adhesive Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Adhesive Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/5b62951035ebb705128047bc_jkd9hn_aztfxn.webp"
+    ],
     "areanames": [
       "GIDC Vapi Industrial Estate",
       "Gunjan Industrial Zone",
@@ -535,19 +569,21 @@
     "title": "Pharmaceutical Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Pharmaceutical Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_38_42_AM_gyihrp.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
     ],
     "productname": "Pharmaceutical Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Pharmaceutical Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
+    ],
     "areanames": [
       "Udhna Industrial Estate",
       "Sachin GIDC",
@@ -566,19 +602,21 @@
     "title": "Cleaning Solvent",
     "subtitle": "Versatile chemical solvent ideal for industrial applications",
     "description": "Cleaning Solvent is a top-grade solvent used for industrial cleaning, dilution, and surface preparation. Known for its fast evaporation and low residue, it is ideal for high-performance applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_44_34_AM_bxkfng.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_49_50_AM_l5vmgq.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_03_18_AM_hevx7e.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_05_33_AM_hytxqu.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886073/ChatGPT_Image_Jun_14_2025_11_22_50_AM_pi9qdx.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/industrial-c-9-solvent-liquid-250x250_m8mcmx.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/organic-solvents-250x250_ylqg7s.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/dibenzyl-ether-500x500_hpd9i5.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247799/product-jpeg-250x250_xf06wp.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/images_tg6r4v.jpg"
     ],
     "productname": "Cleaning Solvent",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749906734/solvent_coa_oldjzc.png",
     "usesdescription": "Cleaning Solvent is widely applied in the production of paints, varnishes, adhesives, coatings, and chemical processing where clean and efficient solvency is crucial.",
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749886072/ChatGPT_Image_Jun_14_2025_11_20_50_AM_jt6g5b.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750247798/aromatic-solvents_d3iyll.jpg"
+    ],
     "areanames": [
       "Vatva GIDC",
       "Naroda GIDC",
