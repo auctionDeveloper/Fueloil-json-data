@@ -309,16 +309,16 @@
       "images_map": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748326511/mumbai_oyn5ae.png"
     },
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
       "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg"
     ],
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
     "usesimages": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp"
     ]
   }
 }
