@@ -8,14 +8,14 @@
     "title": "BASE OIL N70",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N70 is a light paraffinic base oil used in lubricants and hydraulic fluids for smooth machinery performance.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg"
     ],
     "productname": "BASE OIL N70",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -24,7 +24,9 @@
       "Blending in engine lubricants",
       "General industrial lubrication"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp"
+    ],
     "areanames": [
       "Andheri MIDC",
       "Marol Industrial Estate",
@@ -43,14 +45,14 @@
     "title": "BASE OIL N150",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N150 is a mid-viscosity paraffinic oil ideal for automotive, marine, and industrial lubricant formulations.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
     ],
     "productname": "BASE OIL N150",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -59,7 +61,9 @@
       "Marine engine oils",
       "Hydraulic and gear oil formulations"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp"
+    ],
     "areanames": [
       "Turbhe MIDC",
       "TTC Industrial Area",
@@ -78,14 +82,14 @@
     "title": "BASE OIL N220",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N220 offers excellent thermal stability and is used in compressor oils and industrial lubricants.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
     ],
     "productname": "BASE OIL N220",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -94,7 +98,9 @@
       "Industrial hydraulic fluids",
       "High-temperature lubrication"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp"
+    ],
     "areanames": [
       "Wagle Industrial Estate",
       "Kalwa Industrial Area",
@@ -113,14 +119,14 @@
     "title": "BASE OIL N500",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N500 is a high-viscosity base oil suited for gear oils, greases, and metalworking fluids.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg"
     ],
     "productname": "BASE OIL N500",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -129,7 +135,9 @@
       "Grease manufacturing",
       "Metalworking fluids"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg"
+    ],
     "areanames": [
       "Boisar MIDC",
       "Tarapur MIDC",
@@ -148,14 +156,14 @@
     "title": "Base oil N100",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "Base oil N100 is commonly used as a blending component for high-performance motor and gear oils.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp"
     ],
     "productname": "Base oil N100",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -164,7 +172,9 @@
       "Used in transmission oils",
       "Intermediate for industrial lubricants"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
+    ],
     "areanames": [
       "Taloja MIDC",
       "Patalganga MIDC",
@@ -183,14 +193,14 @@
     "title": "BASE OIL N60",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N60 is a refined base stock used in textile lubricants and agricultural formulations.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp"
     ],
     "productname": "BASE OIL N60",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -199,7 +209,9 @@
       "Agricultural equipment oils",
       "Mild industrial applications"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg"
+    ],
     "areanames": [
       "New Panvel Industrial Node",
       "Kalundre MIDC",
@@ -218,14 +230,14 @@
     "title": "WHITE OIL",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "WHITE OIL is a highly refined mineral oil ideal for cosmetic, pharmaceutical, and food-grade applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp"
     ],
     "productname": "WHITE OIL",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -234,7 +246,9 @@
       "Pharmaceutical use",
       "Food processing machinery lubrication"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp"
+    ],
     "areanames": [
       "Chakan MIDC",
       "Ranjangaon MIDC",
@@ -253,14 +267,14 @@
     "title": "2 CST WHITE OIL",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "2 CST WHITE OIL is an ultra-light oil used in heat transfer systems and precision instruments.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp"
     ],
     "productname": "2 CST WHITE OIL",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -269,7 +283,9 @@
       "Precision instrument oil",
       "Light lubrication systems"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
+    ],
     "areanames": [
       "Satpur MIDC",
       "Ambad MIDC",
@@ -288,14 +304,14 @@
     "title": "Pharmaceutical Grade Base Oil",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "Pharmaceutical Grade Base Oil is used in ointments, laxatives, and cosmetic preparations.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp"
     ],
     "productname": "Pharmaceutical Grade Base Oil",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -304,7 +320,9 @@
       "Ingredient in laxatives",
       "Ointment and cream formulations"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp"
+    ],
     "areanames": [
       "Waluj MIDC",
       "Shendra MIDC",
@@ -323,14 +341,14 @@
     "title": "High Viscosity White Base Oil",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "High Viscosity White Base Oil provides excellent lubrication in high-load industrial applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp"
     ],
     "productname": "High Viscosity White Base Oil",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -339,7 +357,9 @@
       "Used in heavy-duty applications",
       "Base for grease and wax blends"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
+    ],
     "areanames": [
       "Shiroli MIDC",
       "Gokul Shirgaon MIDC",
@@ -358,14 +378,14 @@
     "title": "Cosmetic Grade Base Oil",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "Cosmetic Grade Base Oil is tailored for skin-care and hair-care formulations, ensuring purity and stability.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
     ],
     "productname": "Cosmetic Grade Base Oil",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -374,7 +394,9 @@
       "Hair oil formulation",
       "Safe and stable carrier oil"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg"
+    ],
     "areanames": [
       "Verna Industrial Estate",
       "Kundaim Industrial Estate",
@@ -393,14 +415,14 @@
     "title": "BASE OIL N70",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N70 is a light paraffinic base oil used in lubricants and hydraulic fluids for smooth machinery performance.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
     ],
     "productname": "BASE OIL N70",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -409,7 +431,9 @@
       "Blending in engine lubricants",
       "General industrial lubrication"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp"
+    ],
     "areanames": [
       "Gokul Industrial Estate",
       "Tarihal Industrial Area",
@@ -428,14 +452,14 @@
     "title": "BASE OIL N150",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N150 is a mid-viscosity paraffinic oil ideal for automotive, marine, and industrial lubricant formulations.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp"
     ],
     "productname": "BASE OIL N150",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -444,7 +468,9 @@
       "Marine engine oils",
       "Hydraulic and gear oil formulations"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp"
+    ],
     "areanames": [
       "Udyambag Industrial Estate",
       "Macche Industrial Zone",
@@ -463,14 +489,14 @@
     "title": "BASE OIL N220",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N220 offers excellent thermal stability and is used in compressor oils and industrial lubricants.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp"
     ],
     "productname": "BASE OIL N220",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -479,7 +505,9 @@
       "Industrial hydraulic fluids",
       "High-temperature lubrication"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg"
+    ],
     "areanames": [
       "Vasanthanarasapura Industrial Area",
       "Dobbaspet Industrial Estate",
@@ -498,14 +526,14 @@
     "title": "BASE OIL N500",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N500 is a high-viscosity base oil suited for gear oils, greases, and metalworking fluids.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp"
     ],
     "productname": "BASE OIL N500",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -514,7 +542,9 @@
       "Grease manufacturing",
       "Metalworking fluids"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp"
+    ],
     "areanames": [
       "Peenya Industrial Area",
       "Bommasandra Industrial Area",
@@ -533,14 +563,14 @@
     "title": "Base oil N100",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "Base oil N100 is commonly used as a blending component for high-performance motor and gear oils.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp"
     ],
     "productname": "Base oil N100",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -549,7 +579,9 @@
       "Used in transmission oils",
       "Intermediate for industrial lubricants"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg"
+    ],
     "areanames": [
       "Amli Industrial Estate",
       "Kherdi Industrial Zone",
@@ -568,14 +600,14 @@
     "title": "BASE OIL N60",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "BASE OIL N60 is a refined base stock used in textile lubricants and agricultural formulations.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg"
     ],
     "productname": "BASE OIL N60",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -584,7 +616,9 @@
       "Agricultural equipment oils",
       "Mild industrial applications"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp"
+    ],
     "areanames": [
       "GIDC Vapi Industrial Estate",
       "Gunjan Industrial Zone",
@@ -603,14 +637,14 @@
     "title": "WHITE OIL",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "WHITE OIL is a highly refined mineral oil ideal for cosmetic, pharmaceutical, and food-grade applications.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg"
     ],
     "productname": "WHITE OIL",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -619,7 +653,9 @@
       "Pharmaceutical use",
       "Food processing machinery lubrication"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp"
+    ],
     "areanames": [
       "Udhna Industrial Estate",
       "Sachin GIDC",
@@ -638,14 +674,14 @@
     "title": "2 CST WHITE OIL",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "2 CST WHITE OIL is an ultra-light oil used in heat transfer systems and precision instruments.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
     ],
     "productname": "2 CST WHITE OIL",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -654,7 +690,9 @@
       "Precision instrument oil",
       "Light lubrication systems"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp"
+    ],
     "areanames": [
       "Vatva GIDC",
       "Naroda GIDC",
@@ -673,14 +711,14 @@
     "title": "Pharmaceutical Grade Base Oil",
     "subtitle": "Premium-grade white base oil for versatile industrial applications",
     "description": "Pharmaceutical Grade Base Oil is used in ointments, laxatives, and cosmetic preparations.",
-    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
+    "image1": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp",
     "images": [
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png",
-      "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png"
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/images_ty41w3.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg",
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329464/sn-500-base-oil-1561305266-4820915_vubfsv.jpg"
     ],
     "productname": "Pharmaceutical Grade Base Oil",
     "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749127706/baseoil_mu3vi2.png",
@@ -689,7 +727,9 @@
       "Ingredient in laxatives",
       "Ointment and cream formulations"
     ],
-    "usesimages": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png",
+    "usesimages": [
+      "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241508/water-w-jpeg-500x500_qsbup3.webp"
+    ],
     "areanames": [
       "MIDC Dhule",
       "Avdhan Industrial Zone",
