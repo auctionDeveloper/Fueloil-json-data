@@ -19,26 +19,60 @@
         { "name": "Mix aromatic Solvent", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748328954/MTO5_oeb3ce.jpg" }
       ]
     },
- "White Base Oil": {
-  "title": "White Base Oil",
-  "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748329433/BASE_OIL2_w16c9m.jpg",
-  "description": "White Base Oil is a highly refined, colorless, and odorless oil used as a primary ingredient in lubricants, cosmetics, and pharmaceuticals. Its superior purity and stability ensure optimal performance in applications requiring excellent oxidation resistance and thermal stability. It serves as a perfect carrier fluid in various industrial and consumer products.",
-  "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
-  "imagesofmtosubproct": "",
-  "subproducts": [
-    { "name": "BASE OIL N70", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_30_54_PM_kdwbzh.png" },
-    { "name": "BASE OIL N150", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_29_02_PM_g8yqpp.png" },
-    { "name": "BASE OIL N220", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885780/ChatGPT_Image_Jun_14_2025_12_32_34_PM_vev4zh.png" },
-    { "name": "BASE OIL N500", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_34_03_PM_mrfgga.png" },
-    { "name": "Base oil N100", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_39_07_PM_v91ejj.png" },
-    { "name": "BASE OIL N60", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_36_22_PM_rdnwk0.png" },
-    { "name": "WHITE OIL", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885781/ChatGPT_Image_Jun_14_2025_12_40_56_PM_ezuner.png" },
-    { "name": "2 CST WHITE OIL", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_46_10_PM_rrywk5.png" },
-    { "name": "Pharmaceutical Grade Base Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_48_38_PM_dspzyf.png" },
-    { "name": "High Viscosity White Base Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png" },
-    { "name": "Cosmetic Grade Base Oil", "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1749885782/ChatGPT_Image_Jun_14_2025_12_50_42_PM_uwghr2.png" }
-  ]
-}
+
+  "White Base Oil": {
+    "title": "White Base Oil",
+    "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp",
+    "description": "White Base Oil is a highly refined, colorless, and odorless oil used as a primary ingredient in lubricants, cosmetics, and pharmaceuticals. Its superior purity and stability ensure optimal performance in applications requiring excellent oxidation resistance and thermal stability. It serves as a perfect carrier fluid in various industrial and consumer products.",
+    "coa_images": "https://res.cloudinary.com/daqlatcsr/image/upload/v1748340330/mtocoa_bgzhnc.png",
+    "imagesofmtosubproct": "",
+    "subproducts": [
+      {
+        "name": "BASE OIL N70",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/paraffin-oil-500x500_vmdysb.webp"
+      },
+      {
+        "name": "BASE OIL N150",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
+      },
+      {
+        "name": "BASE OIL N220",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp"
+      },
+      {
+        "name": "BASE OIL N500",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg"
+      },
+      {
+        "name": "Base oil N100",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/white-base-oil-n70-500x500_gqoiao.webp"
+      },
+      {
+        "name": "BASE OIL N60",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp"
+      },
+      {
+        "name": "WHITE OIL",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/sn-500-base-oil-500x500_hbxrap.webp"
+      },
+      {
+        "name": "2 CST WHITE OIL",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/p1_s8pj2f.jpg"
+      },
+      {
+        "name": "Pharmaceutical Grade Base Oil",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg"
+      },
+      {
+        "name": "High Viscosity White Base Oil",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/150-base-oil-500x500_rjsb0q.webp"
+      },
+      {
+        "name": "Cosmetic Grade Base Oil",
+        "image": "https://res.cloudinary.com/daqlatcsr/image/upload/v1750241509/banners_automotive-1400x583_pzuoso.jpg"
+      }
+    ]
+  }
 ,
   "Yellow Base Oil": {
   "title": "Yellow Base Oil",
